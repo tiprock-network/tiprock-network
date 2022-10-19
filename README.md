@@ -1,1 +1,1 @@
-<h1>Me as a developer</h1>
+<h1>Web Developer and Machine Learning Enthusiast</h1>
