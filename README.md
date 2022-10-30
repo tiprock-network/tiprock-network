@@ -8,7 +8,7 @@
 >
 > Top Model: Intelligent Maternal Assistant
 
-![GitHub language count](https://img.shields.io/github/languages/count/tiprock-network/Intelligent-Antenatal-Care-Assistant-)
+![GitHub language count](https://img.shields.io/github/languages/count/tiprock-network)
 
 ![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem.gif?raw=true)
 
