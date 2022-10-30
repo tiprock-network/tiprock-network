@@ -4,9 +4,9 @@
 <p>Lincoln says: "Hi, what's going on ?" Check out some of these repositories and find what you think is awesome. Glad you could make it Happy Coding</p>
 <br>
 
-> Line One
+> Major higlights
 >
-> Line Two
+> Project ideas and projects in ML, Node.js and PHP
 
 
 
