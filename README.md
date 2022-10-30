@@ -4,7 +4,7 @@
 <p>Lincoln says: "Hi, what's going on ?" Check out some of these repositories and find what you think is awesome. Glad you could make it Happy Coding</p>
 <br>
 
-> Major higlights
+> Machine Learning models applications, Website Projects (front and back end)
 >
 > Project ideas and projects in ML, Node.js and PHP
 
