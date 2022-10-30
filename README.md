@@ -16,7 +16,7 @@
 
 ![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem.gif?raw=true)
 
-`Hello This is a code`
+`$pip install flask`
 
-`` Using `single back ticks` inside double back ticks``
+
 
