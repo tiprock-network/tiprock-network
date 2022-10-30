@@ -16,9 +16,7 @@
 
 ![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem.gif?raw=true)
 
-```diff
-- Copyrights applied
-+ Feel free to explore the concept
+`Hello This is a code`
 
-```
+`` Using `single back ticks` inside double back ticks``
 
