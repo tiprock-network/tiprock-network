@@ -8,7 +8,7 @@
 >
 > Project ideas and projects in ML, Node.js and PHP
 
-![GitHub all releases](https://img.shields.io/github/downloads/tiprock-network/predictbirthTime-ML/total)
+![GitHub language count](https://img.shields.io/github/languages/count/tiprock-network/Intelligent-Antenatal-Care-Assistant-)
 
 ![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem.gif?raw=true)
 
