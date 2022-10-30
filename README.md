@@ -6,7 +6,7 @@
 
 > Machine Learning models applications, Website Projects (front and back end)
 >
-> Project ideas and projects in ML, Node.js and PHP
+> Top Model: Intelligent Maternal Assistant
 
 ![GitHub language count](https://img.shields.io/github/languages/count/tiprock-network/Intelligent-Antenatal-Care-Assistant-)
 
