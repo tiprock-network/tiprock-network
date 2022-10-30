@@ -14,9 +14,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/tiprock-network/Intelligent-Antenatal-Care-Assistant-?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/tiprock-network/Intelligent-Antenatal-Care-Assistant-?style=social)
 
-![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem.gif?raw=true)
+![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true)
 
-`$pip install flask`
+
 
 
 
