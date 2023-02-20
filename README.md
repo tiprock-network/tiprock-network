@@ -11,8 +11,7 @@
 > Top Model: Intelligent Maternal Assistant
 
 
-
-![](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true)
+<img src="https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true" style="width: 200px; height: 150px;"/>
 
 
 
