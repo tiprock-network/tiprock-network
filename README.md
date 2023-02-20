@@ -12,7 +12,7 @@
 
 
 
-![Birth Prediction Homepage](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true)
+![](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true | width=100)
 
 
 
