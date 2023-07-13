@@ -9,13 +9,9 @@
 > Machine Learning models applications, Website Projects (front and back end)
 >
 > Projects
+<br>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex-basis: 45%; margin-right: 5px;">
-    <img src="https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true" alt="Intelligent Maternal Assistant" width="300">
-  </div>
-  <div style="flex-basis: 45%; margin-left: 5px;">
-    <img src="https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true" alt="Malaria Commodity Prediction" width="300">
-  </div>
-</div>
+![](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true)
+![](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true)
+
 
