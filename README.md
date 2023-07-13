@@ -5,7 +5,8 @@
 <br>
 <br>
 
->Theo, is a Data Science Enthusiast and a web developer. 
+>Theo, is a Data Science Enthusiast and a web developer.
+>![](https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif)
 
 
 
