@@ -14,6 +14,9 @@ Theo, is a Data Science Enthusiast and a web developer.
 | ![Intelligent Maternal Assistant](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true) | ![Malaria Commodity Prediction](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true) |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiprock-network)](https://github.com/anuraghazra/github-readme-stats)
 
 
