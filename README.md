@@ -2,11 +2,9 @@
 
 <!--![Tiprock network](https://github.com/tiprock-network/tiprock-network/blob/main/codecycle.png?raw=true)-->
 <p>Theo says: "Hi, what's going on?" Check out some of these repositories and find what you think is awesome. Glad you could make it! Happy coding!</p>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <br>
 
-![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bed.png)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
 <br>
 
 Theo, is a Data Science Enthusiast and a web developer. 
