@@ -5,7 +5,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=tiprock-network&style=flat-square&color=blue)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tiprock-network)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
 Theo, is a Data Science Enthusiast and a web developer. 
