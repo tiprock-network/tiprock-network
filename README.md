@@ -4,7 +4,7 @@
 <p>Theo says: "Hi, what's going on?" Check out some of these repositories and find what you think is awesome. Glad you could make it! Happy coding!</p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=tiprock-network&style=flat-square&color=blue)
 <br>
 
 Theo, is a Data Science Enthusiast and a web developer. 
