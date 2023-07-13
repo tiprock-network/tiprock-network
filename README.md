@@ -5,13 +5,12 @@
 <br>
 🍝 + 🖥️ + 🛏️  🔄
 <br>
-
-> Machine Learning models applications, Website Projects (front and back end)
->
-> Projects
 <br>
 
-![](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true){: style:"height:83px,width:83px"}
-![](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true){:style:"height:83px,width:83px"}
+<figure markdown>
+  ![](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true){: style:"height:83px,width:83px"}
+  ![](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true){:style:"height:83px,width:83px"}
+  <figcaption>Projects</figcaption>
+</figure>
 
 
