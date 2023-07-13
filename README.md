@@ -5,15 +5,10 @@
 <br>
 🍝 + 🖥️ + 🛏️  🔄
 <br>
-<br>
 
+> Machine Learning models applications, Website Projects (front and back end)
+>
+> Projects
 
-<span style="display: inline-block; width: 300px;">
-  ![Intelligent Maternal Assistant](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true)
-</span>
-<span style="display: inline-block; width: 300px;">
-  ![Malaria Commodity Prediction](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true)
-</span>
-  
-
-
+<img src="https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true" alt="Intelligent Maternal Assistant" style="width:300px; height:auto; display:inline-block; margin-right:10px;">
+<img src="https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true" alt="Malaria Commodity Prediction" style="width:300px; height:auto; display:inline-block;">
