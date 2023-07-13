@@ -7,7 +7,7 @@
 
 Theo, is a Data Science Enthusiast and a web developer.
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" style="height: 30px; width: 30px">
+  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" style="height: 45px; width: 45px"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" style="height: 45px; width: 45px">
 </div>
 
 
