@@ -10,8 +10,11 @@
 >
 > Projects
 
-## Intelligent Maternal Assistant
-<img src="https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true" alt="Intelligent Maternal Assistant" width="300">
-
-## Malaria Commodity Prediction -KHIS (Time Series)
-<img src="https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true" alt="Malaria Commodity Prediction" width="300">
+<div style="display: inline-block;">
+  <div>
+    <img src="https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true" alt="Intelligent Maternal Assistant" width="300">
+  </div>
+  <div>
+    <img src="https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true" alt="Malaria Commodity Prediction" width="300">
+  </div>
+</div>
