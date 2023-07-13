@@ -8,10 +8,15 @@
 
 > Machine Learning models applications, Website Projects (front and back end)
 >
-> Top Model: Intelligent Maternal Assistant
+> Projects
+## Intelligent Maternal Assistant
 
 
 ![](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true)
+
+## Malaria Commodity Prediction -KHIS (Time Series) 
+![](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true)
+
 
 
 
