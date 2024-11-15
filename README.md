@@ -16,7 +16,7 @@
 
 | Mpesa For Business RAG            | 
 | ----------------------------------------- |
-| ![Mpesa RAG](https://github.com/tiprock-network/azure-qa-rag-mpesa/public/assets/demo.gif) |
+| ![Mpesa RAG](https://github.com/tiprock-network/azure-qa-rag-mpesa/blob/main/public/assets/demo.gif) |
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
