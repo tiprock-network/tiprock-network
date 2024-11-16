@@ -1,11 +1,11 @@
-# Web Developer and Machine Learning Enthusiast
+# Software Developer | ML Practitoner
 
 <!--![Tiprock network](https://github.com/tiprock-network/tiprock-network/blob/main/codecycle.png?raw=true)-->
-<p>Theo says: "Hi, what's going on?" Check out some of these repositories and find what you think is awesome. Glad you could make it! Happy coding!</p>
+<p>Theo says: "Hi, what's going on?" Check out some of these repositories and find what you think is awesome. Glad you could make it! Happy coding! I personally practice developing and deploying software and integrating AI into them, right from model development to the app in production.</p>
 <br>
 <br>
 
->Theo, is a Data Science Enthusiast and a web developer.
+>Theo, is a ML practitioner who also excels in Software Engineering.
 >He enjoys coding as a lifestyle and building a community of developers as a duty.
 >@lincolnowiti, LinkedIn: Theophilus Lincoln
 
