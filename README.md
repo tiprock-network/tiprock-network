@@ -14,9 +14,9 @@
 | ----------------------------------------- | ------------------------------------- |
 | ![Intelligent Maternal Assistant](https://github.com/tiprock-network/Intelligent-Antenatal-Care-Assistant-/blob/master/deliverysystem2.gif?raw=true) | ![Malaria Commodity Prediction](https://github.com/HealthIT-Kabarak/Malaria-Commodities-Demand-Prediction-Model/blob/files/Pictures/MalariaCommodities-min.gif?raw=true) |
 
-| Mpesa For Business RAG            | 
-| ----------------------------------------- |
-| ![Mpesa RAG](https://github.com/tiprock-network/azure-qa-rag-mpesa/blob/main/public/assets/demo.gif) |
+| Mpesa For Business RAG                    | Aller Manger API Demo                     |
+| ----------------------------------------- | ----------------------------------------- |
+| ![Mpesa RAG](https://github.com/tiprock-network/azure-qa-rag-mpesa/blob/main/public/assets/demo.gif) | ![Aller Manger API Video](https://github.com/tiprock-network/aller-manger-api/blob/main/aller_manger_frontend/assets/allerManger.gif) |
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
