@@ -18,7 +18,7 @@
 | ----------------------------------------- | ----------------------------------------- |
 | ![Mpesa RAG](https://github.com/tiprock-network/azure-qa-rag-mpesa/blob/main/public/assets/demo.gif) | ![Aller Manger API Video](https://github.com/tiprock-network/aller-manger-api/blob/main/aller_manger_frontend/assets/allerManger.gif) |
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
 
