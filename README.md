@@ -1,6 +1,6 @@
 # Software Developer | ML Practitoner
 
-<!--![Tiprock network](https://github.com/tiprock-network/tiprock-network/blob/main/codecycle.png?raw=true)-->
+![Tiprock network](https://github.com/tiprock-network/tiprock-network/blob/main/codecycle.png?raw=true)
 <p>Theo says: "Hi, what's going on?" Check out some of these repositories and find what you think is awesome. Glad you could make it! Happy coding! I personally practice developing and deploying software and integrating AI into them, right from model development to the app in production.</p>
 <br>
 <br>
@@ -18,7 +18,7 @@
 | ----------------------------------------- | ----------------------------------------- |
 | ![Mpesa RAG](https://github.com/tiprock-network/azure-qa-rag-mpesa/blob/main/public/assets/demo.gif) | ![Aller Manger API Video](https://github.com/tiprock-network/aller-manger-api/blob/main/aller_manger_frontend/assets/allerManger.gif) |
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiprock-network&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <br>
 
