@@ -1,4 +1,4 @@
-# Machine Learning Engineer | ML Practitoner
+# Machine Learning Engineer
 
 <p>Theo says: "Hi, what's going on?" Check out some of these repositories and find what you think is awesome. Glad you could make it! Happy coding! I personally practice developing and deploying software and integrating AI into them, right from model development to the app in production.</p>
 <br>
